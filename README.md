@@ -1,5 +1,5 @@
-# SOC-Role-Responsibilities
-Security Operation Center Role &amp; Responsibilities
+# SOC-Roles-Responsibilities
+Security Operation Center Roles &amp; Responsibilities
 RACI Chart
 
 # Contact
